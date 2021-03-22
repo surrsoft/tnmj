@@ -8,4 +8,8 @@ export class Tnmj {
     aGet() {
         return this.a;
     }
+
+    aGetB() {
+        return this.a + '-b'
+    }
 }
