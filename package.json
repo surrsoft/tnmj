@@ -1,6 +1,6 @@
 {
   "name": "tnmj",
-  "version": "1.2",
+  "version": "1.2.0",
   "description": "training package",
   "main": "index.js",
   "scripts": {
